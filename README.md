@@ -1,4 +1,4 @@
-# site_zero
+# site_aluraplus
 Este projeto foi feito seguindo as etapas disponibilizadas pelo curso de HTML e CSS do portal Alura.
 </br>
 This project was made following the steps provided by Alura in HTML and CSS course.
